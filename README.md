@@ -1,3 +1,9 @@
+Installation:
+
+```bash
+sudo dpkg -i wine1002_1.0_all.deb
+```
+
 To run this custom Wine same as release version:
 
 Example
