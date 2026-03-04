@@ -11,7 +11,6 @@ Wine version 10.2
 
 ```bash
 wine1002 --version
-winecfg1002
 ```
 
 ***
