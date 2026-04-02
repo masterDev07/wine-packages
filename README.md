@@ -13,7 +13,10 @@ Wine version 10.2
 wine1002 --version
 ```
 
-***
+Add to .bashrc to run application on bin directory
+```bash
+export PATH="$PATH:/opt/wine1002/bin"
+```
 
 ### Explanation
 
